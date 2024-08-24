@@ -20,3 +20,5 @@ Build multi-class classification models to predict the type of "crop" and identi
 the Logistic Regression model is having difficulty converging within the default number of iterations ==> `Scaling the features`
 
 If the convergence issues persist==> consider using a different model like `RandomForestClassifier`, which might not have the same convergence issues as logistic regression.
+
+### D
