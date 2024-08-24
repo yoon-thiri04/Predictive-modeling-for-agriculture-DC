@@ -15,8 +15,10 @@ Each row in this dataset represents various measures of the soil in a particular
 - 🏳️If the convergence issues persist==> consider using a different model like `RandomForestClassifier`, which might not have the same convergence issues as logistic regression.
 
 ### Repo
+```
 │
 ├── LICENSE
 ├── README.md         
-├── jf
-    ├── AutoEncoder
+├── notebook.ipynb
+├── soil_measures.csv
+```
