@@ -14,11 +14,10 @@ A farmer reached out to you as a machine learning expert for assistance in selec
 Each row in this dataset represents various measures of the soil in a particular field. Based on these measurements, the crop specified in the "crop" column is the optimal choice for that field.
 
 ### To-Do
-Build multi-class classification models to predict the type of "crop" and identify the single most importance feature for predictive performance.
+☑️ Build multi-class classification models to predict the type of "crop" and identify the single most importance feature for predictive performance.
 
 ### P.S
-the Logistic Regression model is having difficulty converging within the default number of iterations ==> `Scaling the features`
-
-If the convergence issues persist==> consider using a different model like `RandomForestClassifier`, which might not have the same convergence issues as logistic regression.
+- 🏴the Logistic Regression model is having difficulty converging within the default number of iterations ==> `Scaling the features`
+- 🏳️If the convergence issues persist==> consider using a different model like `RandomForestClassifier`, which might not have the same convergence issues as logistic regression.
 
 ### D
