@@ -15,3 +15,6 @@ Each row in this dataset represents various measures of the soil in a particular
 
 ### To-Do
 Build multi-class classification models to predict the type of "crop" and identify the single most importance feature for predictive performance.
+
+the Logistic Regression model is having difficulty converging within the default number of iterations==>Scaling the features
+If the convergence issues persist==> consider using a different model like RandomForestClassifier, which might not have the same convergence issues as logistic regression.
