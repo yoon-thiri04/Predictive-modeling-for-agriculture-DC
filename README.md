@@ -17,8 +17,9 @@ Each row in this dataset represents various measures of the soil in a particular
 ### Repo Structure
 ```
 │
-├── LICENSE
-├── README.md         
+├── README.md
+├── .ipynb_checkpoints
+    ├── notebook-checkpoint         
 ├── notebook.ipynb
 ├── soil_measures.csv
 ```
